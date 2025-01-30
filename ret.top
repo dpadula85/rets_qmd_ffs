@@ -47,7 +47,7 @@
    HT5     1.0079   0.0000  A    1.95998e-01  6.56888e-02  ; HP
    HZ      1.0079   0.0000  A    1.06908e-01  6.56888e-02  ; H
 
-#include "./ret_11cis.itp" ; change the include topology to simulate the desired stereoisomer
+#include "./ret_11cis.itp"
  
  [ system ]
 ; Name
