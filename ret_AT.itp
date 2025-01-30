@@ -245,7 +245,7 @@
 ; C-C-C-CH3 chain backbone
      37  11  12  13   2      0.0    104.483     ;     152     CT2-C5=C6-C7        
 ; missing coordinate: thanks JCTC reviewer!
-     15  14  12  13   2      0.0    712.666     ;     153     
+     15  14  12  13   2      0.0    526.469     ;     153     
 ; starlike
      11   8  12  37   2      0.0    484.765     ;     154     C5-C4--C6--CT2       *
      12   1  11  13   2      0.0    154.644     ;     155     C6-C1--C5--C7        *
