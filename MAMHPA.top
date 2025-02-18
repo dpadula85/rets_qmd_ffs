@@ -1,0 +1,38 @@
+ [ defaults ]
+; nbfunc   comb-rule   gen-pairs  fudgeLJ  fudgeQQ
+     1       2           no         1.0       0.0
+ 
+ [ atomtypes ]
+; name     mass    charge ptype    sigma       espilon
+   C1     12.0110   0.0000  A   3.39967e-01  3.59824e-01 ; pure aromatic AMBER94
+   C2     12.0110   0.0000  A   3.39967e-01  3.59824e-01 ; pure aromatic AMBER94
+   C3     12.0110   0.0000  A   3.39967e-01  3.59824e-01 ; pure aromatic AMBER94
+   C4     12.0110   0.0000  A   3.39967e-01  3.59824e-01 ; pure aromatic AMBER94
+   C7     12.0110   0.0000  A   3.331961e-01 3.59824e-01 ;
+   C8     12.0110   0.0000  A   3.331961e-01 3.59824e-01 ;
+   C9     12.0110   0.0000  A   3.39967e-01  3.59824e-01 ; carbonyl C AMBER 94
+   C10    12.0110   0.0000  A   3.39967e-01  4.57730e-01 ; aliphatic C AMBER 94
+   O11    15.9994   0.0000  A   3.06647e-01  8.80314e-01 ; hydroxyl O AMBER 94
+   H11     1.0079   0.0000  A   0.00000e+00  0.00000e+00 ; hydroxyl H AMBER 94
+   H2      1.0079   0.0000  A   1.639255e-01  6.56888e-02 ; HR
+   H3      1.0079   0.0000  A   1.639255e-01  6.56888e-02 ; HR
+   H7      1.0079   0.0000  A   1.639255e-01  6.56888e-02 ; HR
+   O18    15.9994   0.0000  A   2.95992e-01  8.78640e-01 ; carbonyl O AMBER 94
+   O19    15.9994   0.0000  A   3.00001e-01  7.11280e-01 ; ester O AMBER 94
+   CT1    12.0110   0.0000  A   3.39967e-01  4.57730e-01 ; aliphatic C AMBER 94
+   HT1     1.0079   0.0000  A   1.639255e-01  6.56888e-02 ; HR
+   H10     1.0079   0.0000  A   1.639255e-01  6.56888e-02 ; HR
+   NZ     14.0067   0.0000  A   3.25000e-01  7.11280e-01 ; Nitrogens in AMBER 94
+   HZ      1.0079   0.0000  A   1.06908e-01  6.56888e-02 ; H AMBER 94
+   CT6    12.0110   0.0000  A   3.39967e-01  4.57730e-01 ; aliphatic C AMBER 94
+   HT6     1.0079   0.0000  A   1.639255e-01  6.56888e-02 ; HR
+
+#include "./MAMHPA.itp"
+ 
+ [ system ]
+; Name
+ MAMHPA
+ 
+ [ molecules ]
+; Compound        #mols
+   RET              1
