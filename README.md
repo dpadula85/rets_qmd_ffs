@@ -3,7 +3,7 @@ Notes
 
 These QMD-FFs are electronic supporting information for the paper
 **[A set of Quantum-Mechanically Derived Force Fields for Natural and
-Synthetic Retinal Photoswitches](URL)**
+Synthetic Retinal Photoswitches](https://doi.org/10.26434/chemrxiv-2025-chsf0-v2)**
 submitted to _J. Chem. Theory Comput._ by R. E. Daoud, S. Veglianti, A. Piras,
 A. Semmeq, S. Giannini, G. Prampolini, and D. Padula.
 
