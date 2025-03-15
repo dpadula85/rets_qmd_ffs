@@ -2095,12 +2095,3 @@
     52    53
     52    54
     53    54
- 
- 
- [ system ]
-; Name
- RET 11cis
- 
- [ molecules ]
-; Compound      #mols
-   RET            1

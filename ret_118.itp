@@ -2631,11 +2631,3 @@
     59    60
     59    61
     60    61
- 
- [ system ]
-; Name
- RET 8ring
- 
- [ molecules ]
-; Compound      #mols
-   RET            1

@@ -2023,11 +2023,3 @@
     50    51
     50    52
     51    52
- 
- [ system ]
-; Name
- RET 5ring
- 
- [ molecules ]
-; Compound      #mols
-   RET            1

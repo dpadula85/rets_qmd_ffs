@@ -2394,11 +2394,3 @@
     56    57
     56    58
     57    58
- 
- [ system ]
-; Name
- RET 7ring
- 
- [ molecules ]
-; Compound      #mols
-   RET            1

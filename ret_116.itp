@@ -2184,11 +2184,3 @@
     53    54
     53    55
     54    55
- 
- [ system ]
-; Name
- RET 6ring
- 
- [ molecules ]
-; Compound      #mols
-   RET            1

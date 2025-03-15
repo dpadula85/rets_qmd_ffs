@@ -48,7 +48,7 @@
    HR      1.0079   0.0000  A    1.06908e-01  6.56888e-02  ; H
    HZ      1.0079   0.0000  A    1.06908e-01  6.56888e-02  ; H
 
-#include "./DMAR.itp"
+#include "./MMAR.itp"
  
  [ system ]
 ; Name
